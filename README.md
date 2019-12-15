@@ -1,3 +1,3 @@
 # myfirst
-My first repository
-my first line 
+My first repository.
+My first line 
